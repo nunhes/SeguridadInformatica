@@ -2,207 +2,266 @@
 
 ## 1. Definición
 
-> Markdown é unha ferramenta de conversión de texto a HTML para escritores web.
+> Markdown es una herramienta de conversión de texto a HTML para escritores web.
 
-### 1.1 Que é Markdown?
-- Linguaxe de marcado lixeira deseñada para facilitar a redacción e lectura de texto plano que se pode converter a HTML ou a outros formatos e tipos de arquivo - PDF, .docx,...
-- Proporciona a capacidade de controlar o formato do documento mediante un proceso sinxelo e directo.
-- Permite crear documentos estruturados con pouca sintaxe, o que facilita a súa comprensión.
+### 1.1 Qué es Markdown?
 
-> *Se pode considerar Markdown coma un método de escritura que permite engadir formatos como* **negriña**, *cursivas* *ou incluír [enlaces](https://bitsolto.com/markdown) táboas ou imaxes, utilizando simple texto plano.*
+- Lenguaje de marcado ligera diseñada para facilitar la redacción y la lectura de texto plano que se puede convertir a HTML o a otros formatos y tipos de archivo - PDF, .docx,...
+- Proporciona la capacidad de controlar el formato del documento mediante un proceso sencillo y directo.
+- Permite crear documentos estructurados con poca sintaxis, lo que facilita su comprensión.
+
+> *Se puede considerar Markdown como un método de escritura que permite añadir formatos como* **negrita**, *cursivas* o incluir [enlaces](https://bitsolto.com/markdown), tablas o imágenes, utilizando simple texto plano.*
 
 ### 1.2 Historia
+
 - Creada por [John Gruber](https://daringfireball.net/projects/markdown/) en 2004 en colaboración con Aaron Swartz.
-- Desenvolvida para que os textos sexan facilmente lexibles e publicables en formato HTML.
-- Publicada baixo a licenza BSD.
+- Desarrollada para que los textos sean fácilmente legibles y publicables en formato HTML.
+- Publicada bajo la licencia BSD.
 
-### 1.3 Evolución e Crecemento
+### 1.3 Evolución e Crecimiento
 
-- Co tempo, Markdown foi medrando en capacidades e variantes para adaptarse á escritura dos máis variados tipos de documentos.
-- A súa simplicidade e versatilidade fixérona popular entre desenvolvedores, blogueiros e escritores de documentación técnica.
-- Diversas extensións e sabores permiten incluír funcionalidades avanzadas sen perder a súa sinxeleza orixinal.
+- Con el tiempo, Markdown fue creciendo en capacidades y variantes para adaptarse a la escritura de los más variados tipos de documentos.
+- Su simplicidad y versatilidad la hicieron popular entre desarrolladores, blogueros e escritores de documentación técnica.
+- Diversas extensiones y *sabores* permiten incluir funcionalidades avanzadas sin perder su sencillez original.
 
 ## 2. Marcado
-### 2.1 Títulos e cabeceiras
-- **Sintaxe:** `# Título 1`, `## Título 2`, `### Título 3`, etc.
-- **Exemplo:**
+
+### 2.1 Títulos e cabeceras
+
+- **Sintaxis:** `# Título 1`, `## Título 2`, `### Título 3`, etc.
+
+- **Ejemplo:**
+
   ```markdown
   # Título 1
   ## Título 2
   ### Título 3
   ```
 
-### 2.2 Parágrafos e saltos de liña
-- Os parágrafos créanse con unha ou máis liñas en branco entre eles.
-- Saltos de liña con dous espazos ao final da liña.
+### 2.2 Párrafos y saltos de línea
 
-### 2.3 Texto en énfase
-- **Negriña:** `**texto**` ou `__texto__`
-- **Cursiva:** `*texto*` ou `_texto_`
+- Los párrafos se crean con una o más líneas en blanco entre ellos.
+- Saltos de línea con dos espacios al final de la línea.
+
+### 2.3 Texto en énfasis
+
+- **Negrita:** `**texto**` o `__texto__`
+- **Cursiva:** `*texto*` o `_texto_`
 - **Texto tachado:** `~~texto~~`
 
 ### 2.4 Listas
-- **Listas non ordenadas:** `-`, `*`, `+`
+
+- **Listas no ordenadas:** `-`, `*`, `+`
+
   ```markdown
   - Elemento 1
   - Elemento 2
   ```
+
 - **Listas ordenadas:** `1.`, `2.`
+
   ```markdown
   1. Elemento 1
   2. Elemento 2
   ```
 
 ### 2.5 Citas
-- **Sintaxe:** `> cita`
+
+- **Sintaxis:** `> cita`
+
   ```markdown
-  > Esta é unha cita.
+  > Esta es una cita.
   ```
 
 ### 2.6 Enlaces
-- **Sintaxe:** `[texto](URL)`
+
+- **Sintaxis:** `[texto](URL)`
+
   ```markdown
   [Google](https://www.google.com)
   ```
 
-### 2.7 Imaxes
-- **Sintaxe:** `![texto alternativo](URL)`
+### 2.7 Imágenes
+
+- **Sintaxis:** `![texto alternativo](URL)`
+
   ```markdown
-  ![Logo de Markdown](https://markdown-here.com/img/icon256.png)
+  ![Logotipo de Markdown](https://markdown-here.com/img/icon256.png)
   ```
 
 ### 2.8 Código
-- **Código en liña:** `` `código` ``
+
+- **Código en línea:** `` `código` ``
+
 - **Bloques de código:** 
-   Envolve o teu código entre comiñas inversas. Permite indicar a linguaxe do código xusto despois das tres primeiras comiñas inversas:
-  
+  Envuelve tu código entre comillas inversas. Permite indicar el lenguaje del código justo después de las tres primeras comillas inversas:
+
   \`\`\`javascript
-      console.log('Isto é un bloque de código')
+      console.log('Esto es un bloque de código')
   \`\`\`
 
 O resultado será este:
+
   ```js
-  console.log('Isto é un bloque de código')
+console.log('Esto es un bloque de código')
   ```
 
+### 2.9 Tablas
 
-### 2.9 Táboas
-- **Sintaxe básica:**
+- **Sintaxis básica:**
+
   ```markdown
-  | Cabeceira 1 | Cabeceira 2 |
-  | ----------- | ----------- |
-  | Cela 1      | Cela 2      |
-  | Cela 3      | Cela 4      |
+  | Cabecera 1 | Cabecera 2 |
+  | ---------- | ---------- |
+  | Celda 1    | Celda 2    |
+  | Celda 3    | Celda 4    |
   ```
 
 ## 3. Variantes
 
-Co tempo Markdown foi medrando en capacidades e sabores para adaptarse a escritura dos máis variados tipos de documentos e permitindo incluír características avanzadas sen perder a súa sinxeleza orixinal. 
+Con el tiempo Markdown ha crecido en capacidades e *sabores* para adaptarse a la escritura de os más variados tipos de documentos y permitiendo incluir características avanzadas sin perder su sencillez original. 
 
 ### 3.1 CommonMark
-- Un estándar moderno que define a sintaxe básica de Markdown de maneira precisa e completa.
+
+- Un estándar moderno que define la sintaxis básica de Markdown de manera precisa y completa.
 
 ### 3.2 GitHub Flavored Markdown (GFM)
-- Usada en GitHub con extensións como táboas, listas de tarefas e mencións de usuarios.
+
+- Usada en GitHub con extensiones como tablas, listas de tareas y menciones de usuarios.
+
   ```markdown
-  - [x] Tarefa completada
-  - [ ] Tarefa pendente
+  - [x] Tarea completada
+  - [ ] Tarea pendiente
   ```
 
 ### 3.3 Markdown Extra
-- Extensión que engade funcionalidades adicionais como táboas, definicións de listas e atributos en HTML.
+
+- Extensión que añade funcionalidades adicionales como tablas, definiciones de listas y atributos en HTML.
 
 ### 3.4 MultiMarkdown
-- Engade características para publicacións máis avanzadas, como referencias cruzadas e notas ao pé.
 
-### 3.5 Markdown Here
-- Extensión do navegador que permite converter texto Markdown a HTML en correos electrónicos.
+- Añade características para publicaciones más avanzadas, como referencias cruzadas y notas al pie.
 
-## 4. Usos Comúns de Markdown
-### 4.1 Blogs e Sitios Web
-- Moitos sistemas de xestión de contidos (CMS) permiten usar Markdown para redactar contido.
-- Plataformas como Jekyll e Hugo permiten crear sitios web estáticos con Markdown.
+### 3.5 MarkdownHere
+
+- Extensión del navegador que permite convertir texto Markdown a HTML en correos electrónicos.
+
+## 4. Usos Comunes de Markdown
+
+### 4.1 Blogs y Sitios Web
+
+- Muchos sistemas de gestión de contenidos (CMS) permiten usar Markdown para redactar contenido.
+- Plataformas como Jekyll y Hugo permiten crear sitios web estáticos con Markdown.
 
 ### 4.2 Documentación
-- Amplamente utilizado en documentación de proxectos de software, incluíndo repositores de código en GitHub e GitLab.
-- Ferramentas como MkDocs e Sphinx permiten crear documentación en HTML a partir de arquivos Markdown.
 
-### 4.3 Notas e Xestión de Proxectos
-- Aplicacións como Notion, Obsidian e Trello permiten usar Markdown para crear e organizar notas e tarefas.
+- Ampliamente utilizado en documentación de proyectos de software, incluido repositorios de código en GitHub y GitLab.
+- Herramientas como MkDocs y Sphinx permiten crear documentación en HTML a partir de archivos Markdown.
+
+### 4.3 Notas y Gestión de Proyectos
+
+- Aplicaciones como Notion, Obsidian o Trello permiten usar Markdown para crear y organizar notas y tareas.
 
 ### 4.4 Correos Electrónicos
-- Extensións como Markdown Here permiten escribir correos electrónicos en Markdown e convertelos a HTML.
 
-## 5. Boas Prácticas
-### 5.1 Consistencia na Sintaxe
-- Usar a mesma sintaxe para negriña, cursiva, etc., ao longo do documento.
+- Extensiones como MarkdownHere permiten escribir correos electrónicos en Markdown y convertirlos a HTML.
 
-### 5.2 Límites de Liña
-- Manter liñas curtas (menos de 80 caracteres) para facilitar a lectura en texto plano.
+## 5. Buenas Prácticas
+
+### 5.1 Consistencia en la Sintaxis
+
+- Usar la misma sintaxis para negrita, cursiva, etc., a lo largo del documento.
+
+### 5.2 Límites de Línea
+
+- Mantener líneas cortas (menos de 80 caracteres) para facilitar la lectura en texto plano.
 
 ### 5.3 Comentarios en Markdown
-- Enxertar comentarios que non se renderizan usando o típico marcado HTML:
+
+- Insertar comentarios que no se renderizan usando el típico marcado HTML:
+
   ```markdown
-  <!-- Este é un comentario -->
+  <!-- Este es un comentario -->
   ```
 
-## 6. Extensións e Funcionalidades Avanzadas
-Markdown, ao longo dos anos, foi ampliado con varias extensións e funcionalidades avanzadas que permiten engadir características específicas para diferentes necesidades, mantendo a sinxeleza da linguaxe orixinal. A continuación, explóranse algunhas das extensións e funcionalidades máis populares:
+## 6. Extensiones y Funcionalidades Avanzadas
+
+Markdown, a lo largo de los años, fue ampliado con varias extensiones y funcionalidades avanzadas que permiten añadir características específicas para diferentes necesidades, manteniendo la sencillez del lenguaje original. A continuación, se exploran algunas de las extensiones y funcionalidades más populares:
 
 ### 6.1 GitHub Flavored Markdown (GFM)
+
 - **Características:** 
-  - Taboas, listas de tarefas, mencións de usuarios, emoticonas e sombreado de sintaxe.
+
+  - Tablas, listas de tareas, menciones de usuarios, emoticonos y sombreado de sintaxis.
   - Extensión usada principalmente en GitHub para README.md e wikis.
-- **Exemplo:**
+
+- **Ejemplo:**
+
   ```markdown
-  - [x] Tarefa completada
-  - [ ] Tarefa pendente
-  - @usuario menciona
+  - [x] Tarea completada
+  - [ ] Tarea pendente
+  - @usuario mención
   ```
 
 ### 6.2 Markdown Extra
+
 - **Características:**
-  - Extensión que engade soportes para táboas, definicións de listas, notas ao pé, atributos en HTML e bloques de código resaltado.
-- **Exemplo:**
+
+  - Extensión que añade soportes para tablas, listas de definición, notas al pie, atributos en HTML y bloques de código resaltado.
+
+- **Ejemplo:**
+
   ```markdown
-  Columna1 | Columna2
-  -------- | --------
-  Celda1   | Celda2
+  | Columna1 | Columna2 |
+  | -------- | -------- |
+  |  Celda1  |  Celda2  |
   
-  Termo
-  : Definición do termo
+  Término
+  : Definición del término
   
   <div id="div-id" class="div-class">
-    Contido HTML adicional
+    Contenido HTML adicional
   </div>
   ```
 
 ### 6.3 MultiMarkdown
+
 - **Características:**
-  - Engade características como referencias cruzadas, notas ao pé, citas bibliográficas e matemáticas.
-- **Exemplo:**
+
+  - Añade características como referencias cruzadas, notas al pie, citas bibliográficas y matemáticas.
+
+- **Ejemplo:**
+
   ```markdown
-  Esta é unha referencia cruzada [Capítulo 1](#capitulo-1).
+  Esta es una referencia cruzada [Capítulo 1](#capitulo-1).
   
-  Esta é unha nota ao pé [^1].
+  Esta es una nota al pie [^1].
   
-  [^1]: Texto da nota ao pé.
+  [^1]: Texto de la nota al pie.
   ```
 
-### 6.4 Markdown Here
+### 6.4 MarkdownHere
+
 - **Características:**
-  - Extensión para navegadores que permite escribir correos electrónicos en Markdown e convertelos a HTML ao envialos.
-- **Exemplo:**
+
+  - Extensión para navegadores que permite escribir correos electrónicos en Markdown y convertirlos a HTML al enviarlos.
+
+- **Ejemplo:**
+
   ```markdown
-  Markdown no teu correo electrónico. `Markdown Here` converte isto en HTML.
+  Markdown en tu correo electrónico. `Markdown Here` convierte esto en HTML.
   ```
 
 ### 6.5 MathJax
+
 - **Características:**
-  - Permite a inclusión de ecuacións matemáticas complexas en documentos Markdown utilizando a sintaxe de LaTeX.
-- **Exemplo:**
+
+  - Permite la inclusión de ecuaciones matemáticas complejas en documentos Markdown utilizando la sintaxis de LaTeX.
+
+- **Ejemplo:**
+
   ```markdown
-  Fórmula en liña: \( E = mc^2 \)
+  Fórmula en línea: \( E = mc^2 \)
   
   Fórmula en bloque:
   $$
@@ -211,22 +270,29 @@ Markdown, ao longo dos anos, foi ampliado con varias extensións e funcionalidad
   ```
 
 ### 6.6 PlantUML
+
 - **Características:**
-  - Ferramenta para crear diagramas utilizando texto plano. Pode integrarse con Markdown para incluír diagramas directamente nos documentos.
-- **Exemplo:**
+
+  - Herramienta para crear diagramas utilizando texto plano. Puede integrarse con Markdown para incluir diagramas directamente en los documentos.
+
+- **Ejemplo:**
+
   ```markdown
   ```plantuml
   @startuml
-  Alice -> Bob: Solicitude
-  Bob --> Alice: Resposta
+  Alice -> Bob: Solicitud
+  Bob --> Alice: Respuesta
   @enduml
-  ```
   ```
 
 ### 6.7 Diagramas Mermaid
+
 - **Características:**
-  - Similar a PlantUML, Mermaid permite a creación de diagramas de fluxo, gráficos de Gantt, etc.
-- **Exemplo:**
+
+  - Similar a PlantUML, Mermaid permite la creación de diagramas de flujo, gráficos de Gantt, etc.
+
+- **Ejemplo:**
+
   ```markdown
   ```mermaid
   graph TD;
@@ -235,23 +301,29 @@ Markdown, ao longo dos anos, foi ampliado con varias extensións e funcionalidad
       B-->D;
       C-->D;
   ```
-  ```
 
 ### 6.8 Syntax Highlighting
+
 - **Características:**
-  - Permite o resaltado de sintaxe para múltiples linguaxes de programación nos bloques de código.
-- **Exemplo:**
+
+  - Permite el resaltado de sintaxis para múltiples lenguajes de programación en los bloques de código.
+
+- **Ejemplo:**
+
   ```markdown
   ```python
   def ola_mundo():
       print("Ola, Mundo!")
   ```
-  ```
 
 ### 6.9 Tocbot
+
 - **Características:**
-  - Ferramenta para xerar automaticamente unha táboa de contidos a partir dos títulos dun documento Markdown.
-- **Exemplo:**
+
+  - Herramienta para generar automáticamente una tabla de contenidos a partir de los títulos de un documento Markdown.
+
+- **Ejemplo:**
+
   ```markdown
   <!-- TOC -->
   ## Sección 1
@@ -259,9 +331,13 @@ Markdown, ao longo dos anos, foi ampliado con varias extensións e funcionalidad
   ```
 
 ### 6.10 KaTeX
+
 - **Características:**
-  - Similar a MathJax, KaTeX é outra biblioteca de renderizado de matemáticas que permite a inclusión de ecuacións.
-- **Exemplo:**
+
+  - Similar a MathJax, KaTeX es otra biblioteca de renderizado de matemáticas que permite la inclusión de ecuaciones.
+
+- **Ejemplo:**
+
   ```markdown
   Fórmula en bloque:
   $$
@@ -269,271 +345,349 @@ Markdown, ao longo dos anos, foi ampliado con varias extensións e funcionalidad
   $$
   ```
 
-### Integracións e Ferramentas Complementarias
+### Integraciones y Herramientas Complementarias
+
 #### 6.11 Pandoc
+
 - **Características:**
-  - Ferramenta de conversión de documentos que soporta Markdown e pode converter entre múltiples formatos (HTML, PDF, DOCX, etc.).
-- **Exemplo:**
+
+  - Herramienta de conversión de documentos que soporta Markdown y puede convertir entre múltiples formatos (HTML, PDF, DOCX, etc.).
+
+- **Ejemplo:**
+
   ```bash
   pandoc documento.md -o documento.pdf
   ```
 
 #### 6.12 MkDocs
+
 - **Características:**
-  - Ferramenta para crear sitios de documentación a partir de arquivos Markdown.
-- **Exemplo:**
+
+  - Herramienta para crear sitios de documentación a partir de arquivos Markdown.
+
+- **Ejemplo:**
+
   ```markdown
   # Introdución
   
-  Benvido á documentación.
+  Bienvenido a la documentación.
   ```
 
-#### 6.13 Jekyll e Hugo
+#### 6.13 Jekyll y Hugo
+
 - **Características:**
-  - Xeradores de sitios estáticos que permiten crear blogs e sitios web utilizando Markdown para os contidos.
-- **Exemplo:**
+
+  - Generadores de sitios estáticos que permiten crear blogs y sitios web utilizando Markdown para los contenidos.
+
+- **Ejemplo:**
+
   ```markdown
   ---
-  título: "Entrada de Blog"
-  data: 2024-05-30
+  title: "Entrada de Blog"
+  date: 2024-05-30
   ---
-  # Benvido ao meu blog
+  # Bienvenido a mi blog
   ```
 
-Estas extensións e funcionalidades avanzadas permiten que Markdown sexa unha ferramenta versátil e poderosa para a creación de documentos de diversos tipos, mantendo a sinxeleza que a fixo tan popular.
+Estas extensiones y funcionalidades avanzadas permiten que Markdown sea una herramienta versátil y poderosa para la creación de documentos de diversos tipos, manteniendo la sencillez que le hizo tan popular.
 
-## 7. Exemplos de Uso en Contextos Reais
+## 7. Ejemplos de Uso en Contextos Reales
+
 ### 7.1 Repositorios en GitHub
-- Exemplos de README.md ben escritos e estruturados.
-- Uso de Markdown en wikis de proxectos.
 
-### 7.2 Blogs Persoais
-- Como os blogueiros usan Markdown para redactar contido.
+- Ejemplos de ``README.md`` bien escritos y estructurados.
+- Uso de Markdown en wikis de proyectos.
 
-## 8. Ferramentas e Extensións
-### 8.1 Editores e Ferramentas
-- **Editores en liña:** [Dillinger](https://dillinger.io), [StackEdit](https://stackedit.io).
-- **Aplicacións de escritorio:** [Typora](https://typora.io), [Visual Studio Code](https://code.visualstudio.com).
-- **Extensións de navegador:** [Markdown Here](https://markdown-here.com).
+### 7.2 Blogs Personales
+
+- Muchos blogueros usan Markdown para redactar contenido.
+
+## 8. Herramientas y Extensiones
+
+### 8.1 Editores y Herramientas
+
+- **Editores en línea:** [Dillinger](https://dillinger.io), [StackEdit](https://stackedit.io).
+- **Aplicaciones de escritorio:** [Typora](https://typora.io), [Visual Studio Code](https://code.visualstudio.com).
+- **Extensiones de navegador:** [Markdown Here](https://markdown-here.com).
 - **Plugins para Editores de Texto:** Plugins de [Markdown para Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown), [Sublime Text](https://www.sublimetext.com), [Vim](https://www.freecodecamp.org/espanol/news/como-usar-vim-tutorial-para-principiantes/), etc.
 
 ### 8.2 Conversores
-- Esisten múltiples ferramentas para converter Markdown a outros formatos.
-- [Pandoc](https://pandoc.org).
 
-## 9. Recursos Adicionais
-### 9.1 Documentación e Tutoriais
+- Existen múltiples herramientas para convertir Markdown a otros formatos.
+  - [Pandoc](https://pandoc.org).
+
+## 9. Recursos Adicionales
+
+### 9.1 Documentación y Tutoriales
+
 - [Documentación](https://www.markdownguide.org)
 - Guía de [CommonMark](https://commonmark.org/help/)
 - [GitHub Flavored Markdown](https://docs.github.com/es/get-started/writing-on-github)
 
-## 10. Exercicios Prácticos
-### 10.1 Redactar un Documento Simple
-- Crear un documento Markdown con títulos, parágrafos, listas, enlaces e imaxes.
-- Crear teu CV con Markdown
+## 10. Ejercicios Prácticos
 
-### 10.2 Crear unha Táboa Complexa
-- Crear unha táboa con varias columnas e filas, incluíndo formatos de texto como negriña e cursiva.
+### 10.1 Redactar un Documento Simple
+
+- Crear un documento Markdown con títulos, parágrafos, listas, enlaces e imagenes.
+- Crear tu CV con Markdown
+
+### 10.2 Crear una Tabla Compleja
+
+- Crear una tabla con varias columnas y filas, incluyendo formatos de texto como negrita y cursiva.
 
 ### 10.3 Publicar un Blog con Markdown
-- Publicar unha entrada de blog usando unha plataforma que soporte Markdown (por exemplo, [Jekyll](https://jekyllrb.com) ou [Hugo](https://gohugo.io), ou tamén [Wordpress](https://wpengine.com/resources/using-markdown-wordpress/)).
 
-### 10.4 Static Site Generators (SSG) e Markdown
+- Publicar una entrada de blog usando una plataforma que soporte Markdown (por ejemplo, [Jekyll](https://jekyllrb.com) o [Hugo](https://gohugo.io), o también [Wordpress](https://wpengine.com/resources/using-markdown-wordpress/)).
 
-Os xeradores de sitios estáticos (Static Site Generators, SSG) permiten crear sitios web rápidos e seguros ao precompilar todos os ficheiros do sitio nun servidor, o que elimina a necesidade de procesar o contido dinámico en tempo real. Markdown é amplamente utilizado nestes xeradores debido á súa sinxeleza e capacidade para converter texto plano en HTML de forma eficiente. Aquí tes unha visión xeral dos SSG máis populares e como funcionan con Markdown:
+### 10.4 Static Site Generators (SSG) y Markdown
 
-**Que é un Site Static Generator (SSG)?**
-- Un SSG é unha ferramenta que converte ficheiros de contido (normalmente escritos en Markdown) e plantillas en ficheiros HTML estáticos listos para ser servidos nun servidor web.
-- **Vantaxes:**
-  - **Rendemento:** Os sitios estáticos cargan máis rápido xa que non dependen de consultas a bases de datos ou procesamento en tempo real.
-  - **Seguridade:** Menos puntos de vulnerabilidade xa que non hai backend dináminco.
-  - **Fácil de manter:** Actualizacións simplificadas e menos dependencias.
+Los generadores de sitios estáticos (Static Site Generators, SSG) permiten crear sitios web rápidos y seguros al precompilar todos los archivos del sitio en un servidor, lo que elimina la necesidad de procesar el contenido dinámico en tiempo real. Markdown es ampliamente utilizado en estos generadores debido a su sencillez y capacidad para convertir texto plano en HTML de forma eficiente. Aquí tienes una visión general de los SSG más populares y como funcionan con Markdown:
 
-#### 10.4.1. Xeradores de Sitios Estáticos Populares
+**Que es un Site Static Generator (SSG)?**
+
+- Un SSG es una herramienta que convierte archivos de contenido (normalmente escritos en Markdown) y plantillas en archivos HTML estáticos listos para ser servidos en un servidor web.
+- **Ventajas:**
+  - **Rendimiento:** Los sitios estáticos cargan más rápido ya que no dependen de consultas a bases de datos o procesamiento en tiempo real.
+  - **Seguridad:** Menos puntos de vulnerabilidad ya que non hay backend dinámico.
+  - **Fácil de mantener:** Actualizaciones simplificadas y menos dependencias.
+
+#### 10.4.1. Generadores de Sitios Estáticos Populares
+
 ##### 10.4.1.1 Jekyll
+
 - **Características:**
+
   - Integración perfecta con GitHub Pages.
-  - Soporte para Markdown e Liquid (linguaxe de plantillas).
-  - Gran comunidade e multitude de plugins.
-- **Exemplo:**
+  - Soporte para Markdown y Liquid (lenguaje de plantillas).
+  - Gran comunidad y multitud de plugins.
+
+- **Ejemplo:**
+
   ```markdown
   ---
   layout: post
-  title: "O meu primeiro post"
+  title: "Mi primer post"
   ---
-  # Ola, mundo!
-  Este é o meu primeiro post en Jekyll.
+  # Hola, mundo!
+  Este es mi primer post en Jekyll.
   ```
+
 - **Configuración básica:**
+
   ```bash
   gem install jekyll bundler
-  jekyll new meu-sitio
-  cd meu-sitio
+  jekyll new mi-sitio
+  cd mi-sitio
   bundle exec jekyll serve
   ```
 
 ##### 10.4.1.2 Hugo
+
 - **Características:**
-  - Coñecido pola súa velocidade na compilación de sitios.
-  - Soporte para Markdown e linguaxe de plantillas Go.
+
+  - Conocido por su velocidad en la compilación de sitios.
+  - Soporte para Markdown y  lenguaje de plantillas Go.
   - Extensa biblioteca de temas.
-- **Exemplo:**
+
+- **Ejemplo:**
+
   ```markdown
   ---
-  title: "O meu primeiro post"
+  title: "Mi primer post"
   date: 2024-05-30
   ---
-  # Ola, mundo!
-  Este é o meu primeiro post en Hugo.
+  # Hola, mundo!
+  Este es mi primer post en Hugo.
   ```
+
 - **Configuración básica:**
+
   ```bash
-  hugo new site meu-sitio
-  cd meu-sitio
-  hugo new posts/meu-primeiro-post.md
+  hugo new site mi-sitio
+  cd mi-sitio
+  hugo new posts/mi-primer-post.md
   hugo server
   ```
 
 ##### 10.4.1.3 Gatsby
+
 - **Características:**
-  - Construído sobre React, permitindo compoñentes reutilizables.
+
+  - Construido sobre React, permite componentes reutilizables.
   - Soporte para Markdown a través de plugins como `gatsby-transformer-remark`.
   - Enfoque moderno con GraphQL para consultas de datos.
-- **Exemplo:**
+
+- **Ejemplo:**
+
   ```markdown
   ---
-  title: "O meu primeiro post"
+  title: "Mi primer post"
   date: "2024-05-30"
   ---
-  # Ola, mundo!
-  Este é o meu primeiro post en Gatsby.
+  # Hola, mundo!
+  Este es mi primer post en Gatsby.
   ```
+
 - **Configuración básica:**
+
   ```bash
-  npx gatsby new meu-sitio
-  cd meu-sitio
+  npx gatsby new mi-sitio
+  cd mi-sitio
   npm install gatsby-transformer-remark
   gatsby develop
   ```
 
 ##### 10.4.1.4 Eleventy
+
 - **Características:**
-  - Flexibilidade para usar múltiples linguaxes de plantillas.
+
+  - Flexibilidad para usar múltiples lenguajes de plantillas.
   - Soporte para Markdown.
-  - SSG lixeiro con configuración mínima.
-- **Exemplo:**
+  - SSG ligero con configuración mínima.
+
+- **Ejemplo:**
+
   ```markdown
   ---
-  title: "O meu primeiro post"
+  title: "Mi primer post"
   date: 2024-05-30
   ---
-  # Ola, mundo!
-  Este é o meu primeiro post en Eleventy.
+  # Hola, mundo!
+  Este es mi primer post en Eleventy.
   ```
+
 - **Configuración básica:**
+
   ```bash
   npx @11ty/eleventy
   eleventy --serve
   ```
 
-#### 10.4.2. Configuración de Proxectos con Markdown
-##### 10.4.2.1 Estrutura Típica dun Proxecto
-- **Carpetas e ficheiros básicos:**
-  - `_posts/` ou `content/`: Contén ficheiros Markdown para as entradas do blog.
-  - `_layouts/` ou `layouts/`: Plantillas HTML para o contido.
-  - `assets/` ou `static/`: Imaxes, CSS, JavaScript e outros ficheiros estáticos.
-  - `config.yml` ou `config.toml`: Ficheiro de configuración do SSG.
+#### 10.4.2. Configuración de Proyectos con Markdown
+
+##### 10.4.2.1 Estructura Típica de un Proyecto
+
+- **Carpetas y archivos básicos:**
+  - `_posts/` o `content/`: Contiene archivos Markdown para las entradas del blog.
+  - `_layouts/` o `layouts/`: Plantillas HTML para el contenido.
+  - `assets/` o `static/`: Imágenes, CSS, JavaScript y otros archivos estáticos.
+  - `config.yml` o `config.toml`: Archivo de configuración do SSG.
 
 ##### 10.4.2.2 Integración de Markdown
+
 - **Front Matter:**
-  - Metadatos incluídos ao comezo dos ficheiros Markdown para definir configuración específica do contido.
-  - **Exemplo:**
+
+  - Metadatos incluidos al comienzo de los archivos Markdown para definir configuración específica del contenido.
+
+  - **Ejemplo:**
+
     ```markdown
     ---
-    title: "O meu primeiro post"
+    title: "Mi primer post"
     date: 2024-05-30
-    tags: [introdución, exemplo]
+    tags: [introducción, ejemplo]
     ---
     ```
 
 #### 10.4.3. Funcionalidades Avanzadas
-##### 10.4.3.1 Plugins e Extensións
+
+##### 10.4.3.1 Plugins y Extensiones
+
 - **Jekyll:**
-  - `jekyll-paginate` para páxinas de paginación.
-  - `jekyll-sitemap` para xerar sitemaps automáticamente.
+  - `jekyll-paginate` para la paginación.
+  - `jekyll-sitemap` para generar sitemaps automáticamente.
 - **Hugo:**
-  - `shortcodes` para crear compoñentes reutilizables.
+  - `shortcodes` para crear componentes reutilizables.
   - `hugo-algolia` para integración con Algolia Search.
 - **Gatsby:**
-  - `gatsby-plugin-image` para optimización de imaxes.
-  - `gatsby-source-filesystem` para fontes de datos.
+  - `gatsby-plugin-image` para optimización de imágenes.
+  - `gatsby-source-filesystem` para fuentes de datos.
 - **Eleventy:**
-  - `eleventy-plugin-syntaxhighlight` para resaltado de sintaxe.
-  - `eleventy-plugin-rss` para fontes RSS.
+  - `eleventy-plugin-syntaxhighlight` para resaltado de sintaxis.
+  - `eleventy-plugin-rss` para fuentes RSS.
 
 ##### 10.4.3.2 Funcionalidades específicas de Markdown
-- **Taboas, listas de tarefas, imaxes e enlaces:** 
-  - Utilización de sintaxe específica para mellorar o contido.
-  - **Exemplo:**
+
+- **Tablas, listas de tareas, imágenes y enlaces:** 
+
+  - Utilización de sintaxis específica para mejorar el contenido.
+
+  - **Ejemplo:**
+
     ```markdown
-    | Cabeceira 1 | Cabeceira 2 |
-    | ----------- | ----------- |
-    | Celda 1     | Celda 2     |
+    | Cabecera 1 | Cabecera 2 |
+    | ---------- | ---------- |
+    |  Celda 1   |  Celda 2   |
     
-    - [x] Tarefa completada
-    - [ ] Tarefa pendente
+    - [x] Tarea completada
+    - [ ] Tarea pendente
     
-    ![Imaxe de Exemplo](url_da_imaxe)
+    ![Imagen de ejemplo](url_da_imaxe)
     ```
 
-#### 10.4.4. Recursos Adicionais
-##### 10.4.4.1 Documentación e Tutoriais
+#### 10.4.4. Recursos Adicionales
+
+##### 10.4.4.1 Documentación y Tutoriales
+
 - **Jekyll:** [Documentación oficial](https://jekyllrb.com/docs/)
 - **Hugo:** [Documentación oficial](https://gohugo.io/documentation/)
 - **Gatsby:** [Documentación oficial](https://www.gatsbyjs.com/docs/)
 - **Eleventy:** [Documentación oficial](https://www.11ty.dev/docs/)
 
 ##### 10.4.4.2 Comunidades e Foros
-- **Stack Overflow:** Para resolver problemas e dúbidas.
-- **GitHub:** Repositorios de exemplos e proxectos abertos.
-- **Foros específicos:** Discusións en foros dedicados a cada SSG.
 
-#### 10.4.5. Exercicios Prácticos
+- **Stack Overflow:** Para resolver problemas y dudas.
+- **GitHub:** Repositorios de Ejemplos e proyectos abiertos.
+- **Foros específicos:** Discusiones en foros dedicados a cada SSG.
+
+#### 10.4.5. Ejercicios Prácticos
+
 ##### 10.4.5.1 Crear un Blog con Jekyll
-- Configurar un novo blog en GitHub Pages utilizando Jekyll.
-- Crear entradas en Markdown e personalizar o tema.
+
+- Configurar un nuevo blog en GitHub Pages utilizando Jekyll.
+- Crear entradas en Markdown y personalizar el tema.
 
 ##### 10.4.5.2 Crear un Portafolio con Hugo
-- Configurar un novo sitio web con Hugo.
-- Crear páxinas de proxecto utilizando ficheiros Markdown.
+
+- Configurar un nuevo sitio web con Hugo.
+- Crear páginas de proyecto utilizando archivos Markdown.
 
 ##### 10.4.5.3 Crear un Sitio de Documentación con Gatsby
+
 - Configurar un sitio de documentación utilizando Gatsby.
-- Integrar Markdown para as páxinas de documentación e personalizar o estilo.
+- Integrar Markdown para las páginas de documentación y personalizar el estilo.
 
-##### 10.4.5.4 Crear un Sitio Persoal con Eleventy
-- Configurar un sitio web persoal utilizando Eleventy.
-- Crear entradas de blog e páxinas en Markdown.
+##### 10.4.5.4 Crear un Sitio Personal con Eleventy
 
-### A Importancia de Markdown no Desenvolvemento e Produción de Contidos Web Actual
+- Configurar un sitio web personal utilizando Eleventy.
+- Crear entradas de blog e paginas en Markdown.
 
-No mundo do desenvolvemento e produción de contidos web actual, Markdown xogou un papel fundamental ao proporcionar unha maneira sinxela e eficiente de crear e formatar contido para sitios web. A súa importancia radica na súa capacidade para simplificar o proceso de escritura e publicación de contido, ao mesmo tempo que permite unha gran flexibilidade e potencialidades avanzadas.
+### A Importancia de Markdown en el Desarrollo e Producción de Contenidos Web Actual
 
-#### Sinxeleza e Facilidade de Uso
-Markdown destaca pola súa sinxeleza e facilidade de uso. A súa sintaxe minimalista permite crear documentos estruturados con facilidade, sen a necesidade de aprender unha linguaxe de marcado complexa. Isto fai que sexa accesible para persoas de todos os niveis de habilidade técnica.
+En el mundo del desarrollo y producción de contenidos web actual, Markdown juega un papel fundamental al proporcionar una manera sencilla y eficiente de crear y dar formato al contenido para sitios web. Su importancia radica en su capacidad para simplificar el proceso de escritura y publicación de contenido, al mismo tiempo que permite una gran flexibilidad y potencialidades avanzadas.
 
-#### Compatibilidade e Portabilidade
-Outra vantaxe importante de Markdown é a súa compatibilidade e portabilidade. Os documentos Markdown poden ser convertidos facilmente a HTML, o que permite que o contido creado con Markdown sexa utilizado en calquera sitio web ou plataforma que soporte HTML. Ademais, moitas ferramentas e plataformas populares, como GitHub, GitLab, Jekyll e Hugo, son compatibles con Markdown, o que fai que sexa amplamente adoptado na comunidade de desenvolvemento web.
+#### Sencillez y Facilidad de Uso
 
-#### Eficiencia e Produtividade
-O uso de Markdown tamén pode mellorar a eficiencia e produtividade dos equipos de desenvolvemento e produción de contidos. Ao eliminar a necesidade de formatos complexos e procesos de edición laboriosos, Markdown permite que os equipos se concentren máis na creación de contido de calidade e menos nos detalles técnicos da súa formatación.
+Markdown destaca por su sencillez y facilidad de uso. Su sintaxis minimalista permite crear documentos estructurados con facilidad, sin la necesidad de aprender un lenguaje de marcado complejo. Esto hace que sea accesible para personas de todos los niveles de habilidad técnica.
 
-#### Flexibilidade e Funcionalidades Avanzadas
-A pesar da súa sinxeleza, Markdown tamén ofrece unha gran flexibilidade e potencialidades avanzadas. A través de extensións e funcionalidades adicionais, como GitHub Flavored Markdown (GFM), Markdown Extra e MultiMarkdown, é posible incluír características avanzadas, como táboas, listas de tarefas, mencións de usuarios, ecuacións matemáticas e diagramas, sen perder a sinxeleza orixinal da linguaxe.
+#### Compatibilidad y Portabilidad
 
-#### Adoita a Práctica Recomendada
-En resumo, Markdown é unha ferramenta poderosa e versátil que desempeña un papel crucial no desenvolvemento e produción de contidos web actual. A súa sinxeleza, compatibilidade, eficiencia, flexibilidade e potencialidades avanzadas fan dela unha elección ideal para quen busca unha maneira fácil e eficaz de crear e formatar contido para a web. Ao adoptar Markdown como práctica recomendada, os equipos de desenvolvemento e produción de contidos poden mellorar a súa eficiencia e produtividade, ao mesmo tempo que ofrecen unha mellor experiencia de usuario nos seus sitios web.
+Otra ventaja importante de Markdown es su compatibilidad y portabilidad. Los documentos Markdown pueden ser convertidos fácilmente a HTML, lo que permite que el contenido creado con Markdown sea utilizado en cualquier sitio web o plataforma que soporte HTML. Además, muchas herramientas y plataformas populares, como GitHub, GitLab, Jekyll o Hugo, son compatibles con Markdown, lo que hace que sea ampliamente adoptado en la comunidad de desarrollo web.
+
+
+
+#### Eficiencia y Productividad
+
+El uso de Markdown también puede mejorar la eficiencia y productividad de los equipos de desarrollo y producción de contenidos. Al eliminar la necesidad de formatos complejos y procesos de edición laboriosos, Markdown permite que los equipos se concentren más en la creación de contenido de calidad y menos en los detalles técnicos de su formato.
+
+#### Flexibilidad y Funcionalidades Avanzadas
+
+A pesar de su sencillez, Markdown también ofrece una gran flexibilidad y potencialidades avanzadas. A través de extensiones y funcionalidades adicionales, como GitHub Flavored Markdown (GFM), Markdown Extra y MultiMarkdown, es posible incluir características avanzadas, como tablas, listas de tareas, menciones de usuarios, ecuaciones matemáticas y diagramas, sin perder la sencillez original del lenguaje.
+
+#### Adopta la Práctica Recomendada
+
+En resumen, Markdown es una herramienta poderosa y versátil que desempeña un papel crucial en el desarrollo y producción de contenidos web actual. Su sencillez, compatibilidad, eficiencia, flexibilidad y potencialidades avanzadas hacen de el una elección ideal para quien busca una manera fácil y eficaz de crear y dar formato al contenido para la web. Al adoptar Markdown como práctica recomendada, los equipos de desarrollo y producción de contenidos pueden mejorar su eficiencia y productividad, al mismo tiempo que ofrecen una mejor experiencia de usuario en sus sitios web.
 
 ---
 
-Desenvolvemento de aplicacións con tecnoloxías web<br>COIRO 2024
+Desarrollo de aplicaciones con tecnologías web<br>COIRO 2024
