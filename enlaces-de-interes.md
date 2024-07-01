@@ -72,6 +72,9 @@
 
   https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer
 
+- Plantillas de políticas de seguridad
+  https://www.sans.org/information-security-policy/
+
 
 ### Roadmap
 
