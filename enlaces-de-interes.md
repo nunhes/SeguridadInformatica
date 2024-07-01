@@ -6,6 +6,7 @@
   - [SGSI](https://www.youtube.com/playlist?list=PLr5GsywSn9d9By1wgN9CO0XrKtpVUwK_T)(act. 2018)
   - https://www.incibe.es/ciudadania/tematicas
   - https://www.incibe.es/ciudadania/formacion/talleres
+  - https://www.incibe.es/ciudadania/herramientas
   - [Academia Hacker]([Academia Hacker | ED2026 | INCIBE](https://www.incibe.es/ed2026/talento-hacker/academia-hacker))
 - [Agencia Española de Protección de Datos](https://www.aepd.es/)
   - Preguntas frecuentes sobre protección de datos de carácter personal
@@ -24,6 +25,9 @@
 
 ### Recomendaciones, estándares y patrones de SI
 
+- https://www.microsoft.com/es-es/security/business/security-101/what-is-cybersecurity
+
+- https://www.linkedin.com/showcase/microsoft-security/
 - [IBM - Seguridad e identidad](https://www.ibm.com/mx-es/think/security)
 
 - [DevSecOps: Mejorar la transparencia y la confianza en la seguridad de las aplicaciones.](https://www.devsecops.org/)
@@ -35,24 +39,44 @@
 
 *Las mismas herramientas que usamos para auditar, verificar o resolver incidentes de seguridad informática son en muchos casos las mismas que usa la ciberdelincuencia para preparar y perpetrar sus ataques. Úsalas con criterios éticos y bajo tu responsabilidad.*
 
-- Analizar sitios web, archivos
+- 250 Herramientas para Hacking Ético
+  https://achirou.com/las-250-mejores-herramientas-para-hackers/
+
+- Analizar sitios web, archivos potencialmente dañinos,..
 
   https://www.virustotal.com   &rarr; Analizar archivos, direcciones IP, URL, dominios,… para conocer si son o no de confianza.- 
 
-- Comprobar contraseñas
+- Comprobar calidad segura de contraseñas
 
   https://password.kaspersky.com/es/
 
-- Ver destino URL corta
+- Ver destino final de URL corta
 
   https://www.expandurl.net
 
-- Comprobar correo electrónico
+- Comprobar la difusión y compromiso de cuentas de correo electrónico
 
   https://haveibeenpwned.com
 
-  
+- Dirección de correo temporal
 
-- Process explorer
+  https://temp-mail.org/es/
+
+
+
+- Consultas, dudas, problemas en Stackexchange
+
+  https://security.stackexchange.com/
+
+- Windows Process explorer
 
   https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer
+
+
+### Roadmap
+
+- https://roadmap.sh/cyber-security
+
+### Videos:
+
+- [🔥Cybersecurity basics | 2024 | Simplilearn (youtube.com)](https://www.youtube.com/watch?v=njPY7pQTRWg)
