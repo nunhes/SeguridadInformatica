@@ -44,7 +44,8 @@
 
 - Analizar sitios web, archivos potencialmente dañinos,..
 
-  https://www.virustotal.com   &rarr; Analizar archivos, direcciones IP, URL, dominios,… para conocer si son o no de confianza.- 
+  - https://www.virustotal.com   &rarr; Analizar archivos, direcciones IP, URL, dominios,… para conocer si son o no de confianza.-
+  - [SANS Digital Forensics and Incident Response](https://www.sans.org/dfir)
 
 - Comprobar calidad segura de contraseñas
 
@@ -76,7 +77,6 @@
   
   https://www.sans.org/information-security-policy/
 
-
 ### Roadmap
 
 - https://roadmap.sh/cyber-security
@@ -84,3 +84,6 @@
 ### Videos:
 
 - [🔥Cybersecurity basics | 2024 | Simplilearn (youtube.com)](https://www.youtube.com/watch?v=njPY7pQTRWg)
+- [Introducción](https://www.youtube.com/watch?v=gzES0MuWqHE&list=PLO6n5vXhneVY65LdYlUVUftCwShV7fY5S&index=8)
+
+- Busca canales como [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q), [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw), y [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) que ofrecen tutoriales prácticos y demostraciones.
