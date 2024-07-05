@@ -16,7 +16,7 @@ Las amenazas a la seguridad de los equipos informáticos abarcan una variedad de
 
   #### 1.2.2 Ataques de Phishing
 
-  - **Phishing**: Técnicas utilizadas para engañar a las personas y obtener información confidencial, como nombres de usuario, contraseñas y detalles de tarjetas de crédito, mediante correos electrónicos o sitios web falsos.
+  - **[Phishing](https://support.microsoft.com/es-es/office/protección-contra-estafas-y-ataques-en-línea-0109ae3f-fe61-4262-8dce-2ee3cd43bac7)**: Técnicas utilizadas para engañar a las personas y obtener información confidencial, como nombres de usuario, contraseñas y detalles de tarjetas de crédito, mediante correos electrónicos o sitios web falsos.
   - **Spear Phishing**: Ataques de phishing personalizados dirigidos a individuos específicos utilizando información personal para aumentar la credibilidad del ataque.
   - **Whaling**: Phishing dirigido a altos ejecutivos o individuos de alto perfil dentro de una organización, con el objetivo de obtener información sensible o realizar transferencias financieras fraudulentas.
 
