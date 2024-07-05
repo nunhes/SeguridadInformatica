@@ -6,3 +6,6 @@ No olvides cubrir tus datos en el cabezado dispuesto a tal efecto en la primera 
 
 
 https://www.bitsolto.com/segtic/pruebas/EVALUACION_CONTINUA_MF0486_3.zip
+
+
+https://www.bitsolto.com/segtic/pruebas/EVALUACION_CONTINUA_MF0486_3_doc.zip
