@@ -1,0 +1,24 @@
+{
+  "name": "marpcli",
+  "version": "1.0.0",
+  "description": "proba con marp-cli",
+  "main": "index.js",
+  "scripts": {
+    "preview": "marp --output=dist --input-dir=src --theme src/theme/ambo.css --preview",
+    "pdf": "marp  --output=dist --input-dir=src --theme src/theme/ambo.css --pdf",
+    "build": "marp --output=dist --input-dir=src --allow-local-files",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@nunhes",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.1"
+  },
+  "marp": {
+    "allowLocalFiles": true,
+    "inputDir": "src",
+    "output": "dist",
+    "html": true
+  }
+}
