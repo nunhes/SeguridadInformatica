@@ -14,7 +14,7 @@
 
    -  Confianza, integridad y disponibilidad.
    -  Confidencialidad, precisión y exactitud.
-   -  Confidencialidad, integridad y disponibilidad.:heavy_check_mark:
+   -  Confidencialidad, integridad y disponibilidad. :heavy_check_mark:
 
 4. **Relaciona:**
 
