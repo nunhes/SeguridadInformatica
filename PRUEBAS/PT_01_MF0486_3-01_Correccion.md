@@ -36,20 +36,20 @@
 5. **Marca las opciones correctas sobre la seguridad informática:**
 
    -  La seguridad total se puede conseguir analizando las amenazas y vulnerabilidades antes de que ocurra un incidente de seguridad.
-   -  La seguridad total es inalcanzable.:heavy_check_mark:
+   -  La seguridad total es inalcanzable. :heavy_check_mark:
    -  La seguridad total se consigue al evitar un incidente de seguridad.
    -  Conociendo los 3 pilares de la seguridad se puede llegar a la seguridad total.
 
 6. **El proceso de la Gestión de la seguridad informática …**
 
-   -  Es un proceso de mejora continuo que entre otras cosas busca asegurar la continuidad del negocio.:heavy_check_mark:
+   -  Es un proceso de mejora continuo que entre otras cosas busca asegurar la continuidad del negocio. :heavy_check_mark:
    -  Es un proceso cerrado en el que se analiza la situación actual, se realizan mejoras y no se vuelve a trabajar en él hasta que ocurre un incidente.
 
 7. **Los incendios son amenazas de origen …**
 
    -  Natural
    -  Industrial
-   -  Natural o Industrial:heavy_check_mark:
+   -  Natural o Industrial :heavy_check_mark:
 
 8. **Verdadero o falso: \******La evaluación de proveedores de terceros es crucial para asegurar la integridad y seguridad de la cadena de suministro de una organización.\****  
 
@@ -61,7 +61,7 @@
    -  Amenaza de origen natural.
    -  Amenaza efectuada por personas de forma accidental.
    -  Amenaza efectuada por personas de forma deliberada. ​​
-   -  Amenaza efectuada por personas de forma accidental o forma deliberada.:heavy_check_mark:
+   -  Amenaza efectuada por personas de forma accidental o forma deliberada. :heavy_check_mark:
 
 10. **¿Qué medidas puede implementar una empresa de servicios financieros para preservar la confidencialidad y la integridad de los datos financieros de sus clientes?Señala lo correcto:**
 
@@ -99,7 +99,7 @@
     -  Su efectividad viene dada a la proximidad de una copia de seguridad completa.
     -  Se copian los datos desde la última copia de seguridad completa. ​​
     -  Suelen ser más lentas que las incrementales.
-    -  Todas las respuestas son correctas.:heavy_check_mark:
+    -  Todas las respuestas son correctas. :heavy_check_mark:
 
 16. **Relaciona el concepto con su definición:**
 
