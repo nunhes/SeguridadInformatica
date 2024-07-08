@@ -65,7 +65,7 @@
 
 10. **¿Qué medidas puede implementar una empresa de servicios financieros para preservar la confidencialidad y la integridad de los datos financieros de sus clientes?Señala lo correcto:**
 
-    - Implementar un plan de mejora de la infraestructura de seguridad, incluyendo nuevas políticas y procedimientos.
+    - Implementar un plan de mejora de la infraestructura de seguridad, incluyendo nuevas políticas y procedimientos.  :heavy_check_mark:
     - Realizar una evaluación de los sistemas existentes para indentificar qué datos y sistemas necesitan mejoras.
     - Bastaría con implementar cifrado de extremo a extremo para los datos financieros sensibles.
 
