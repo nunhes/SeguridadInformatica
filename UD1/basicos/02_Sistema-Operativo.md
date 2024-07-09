@@ -363,8 +363,9 @@ Mas información sobre seguridad en Windows:
 - [Mantente protegido](https://support.microsoft.com/es-es/windows/mantente-protegido-con-seguridad-de-windows-2ae0363d-0ada-c064-8b56-6a39afb6a963)
 - [Quitar malware de tu PC Windows](https://support.microsoft.com/es-es/office/quitar-malware-de-tu-pc-windows-360379ec-153b-4ab4-93ff-85be97789dbb)
 - [Firewall y protección de red](https://support.microsoft.com/es-es/windows/firewall-y-protección-de-red-en-seguridad-de-windows-aef9838b-d081-fd75-3b1b-e5fa794c003b)
-- https://www.youtube.com/watch?v=ff85fP4fF1c
+- [Herramientas administrativas Windows 10](https://www.youtube.com/watch?v=rUpZvT3kVAg) + [1](https://www.youtube.com/watch?v=ff85fP4fF1c)
 
+  
 #Sistemas 
 
 #Básicos 
