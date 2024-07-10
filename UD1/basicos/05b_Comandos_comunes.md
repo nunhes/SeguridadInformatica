@@ -115,7 +115,7 @@
    wsl  # Para iniciar la shell de Linux en Windows
    ```
 
-3. **Cygwin**: Proporciona un entorno Unix-like en Windows, permitiendo usar comandos y scripts de Linux.
+3. **[Cygwin](https://www.cygwin.com/)**: Proporciona [un entorno Unix-like en Windows](https://es.wikipedia.org/wiki/Cygwin), permitiendo usar comandos y scripts de Linux.
 
    ```bash
    cygwin  # Para acceder a la interfaz de Cygwin
