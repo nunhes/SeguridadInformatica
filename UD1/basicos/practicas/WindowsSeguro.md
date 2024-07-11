@@ -394,3 +394,4 @@ Ambas prácticas te ayudarán a familiarizarte con herramientas importantes de a
 Herramienta de escaneo de vulnerabilidades de Windows
 
 - http://public.cyber.mil/stigs/scap  &rarr; [SCC 5.9 Windows](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/scc-5.9_Windows_bundle.zip)
+- https://www.niwcatlantic.navy.mil/Technology/SCAP/ &rarr; [videos](https://www.niwcatlantic.navy.mil/Technology/SCAP/SCAP-Tutorial-Videos/)
