@@ -36,17 +36,21 @@ Windows Defender se puede gestionar desde la línea de comandos.
 
 1. **Escaneo rápido**
    ```cmd
-   MpCmdRun.exe -Scan -ScanType 1
+   mpcmdrun -scan -scantype 1
    ```
 
 2. **Escaneo completo**
    ```cmd
-   MpCmdRun.exe -Scan -ScanType 2
+   mpcmdrun -scan -scantype 2
    ```
 
 3. **Actualizar definiciones**
    ```cmd
-   MpCmdRun.exe -SignatureUpdate
+   mpcmdrun -signatureUpdate
+   ```
+4. **Escanear únicamente el sector de arranque del sistema:**
+   ```cmd
+   mpcmdrun -scan -bootsectorscan
    ```
 
 #### Sysinternals Suite
