@@ -186,10 +186,10 @@ ipconfig
 
   - **``/VERIFYONLY``**: comprobar la integridad, pero no repara los archivos.
   - **``/SCANFILE``**: escanear la integridad de archivos específicos y reparar si están corruptos.
-  - ***\*/VERIFYFILE\****: verificar la integridad de archivos específicos, pero sin repararlo.
-  - ***\*/OFFBOOTDIR\****: hacer reparaciones en un directorio de arranque sin conexión.
-  - ***\*/OFFWINDIR\****: reparar un directorio de Windows sin conexión.
-  - ***\*/OFFLOGFILE\****: Especificar una ruta para guardar un archivo de registro con los resultados del análisis.
+  - **``/VERIFYFILE``**: verificar la integridad de archivos específicos, pero sin repararlo.
+  - **``/OFFBOOTDIR``**: hacer reparaciones en un directorio de arranque sin conexión.
+  - **``/OFFWINDIR``**: reparar un directorio de Windows sin conexión.
+  - **``/OFFLOGFILE``**: Especificar una ruta para guardar un archivo de registro con los resultados del análisis.
 
 - **Mapear unidades**
 
