@@ -12,7 +12,7 @@ La primera fase en la gestión de riesgos es la identificación de posibles amen
 - **Vulnerabilidades del sistema**: software desactualizado, configuraciones incorrectas.
 
 **Métodos de identificación:**
-- **Análisis FODA (Fortalezas, Oportunidades, Debilidades, Amenazas)**.
+- **Análisis DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades)**.
 - **Revisión de logs y auditorías de seguridad**.
 - **Encuestas y entrevistas con personal clave**.
 - **Evaluaciones de vulnerabilidades y pruebas de penetración**.
