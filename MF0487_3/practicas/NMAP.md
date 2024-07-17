@@ -78,7 +78,7 @@ Supongamos que estás realizando un reconocimiento en una red corporativa con la
    ```sh
    nmap --script vuln 192.168.0.1
    ```
-   Utiliza scripts NSE para detectar posibles vulnerabilidades en el dispositivo objetivo.
+   Utiliza [scripts NSE](https://www.netally.com/cybersecurity/building-custom-nse-and-discovery-scripts/) para detectar posibles vulnerabilidades en el dispositivo objetivo.
 
 ### Consideraciones Éticas
 
