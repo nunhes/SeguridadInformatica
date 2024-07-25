@@ -51,8 +51,10 @@ El modelo de Interconexión de Sistemas Abiertos (OSI) y el conjunto de Protocol
 Los protocolos de red son conjuntos de reglas que dictan cómo se transmiten y reciben los datos en las redes. Los protocolos clave incluyen:
 
 • **TCP (Protocolo de Control de Transmisión) y UDP (Protocolo de Datagrama de Usuario)**: TCP es orientado a la conexión, asegurando la entrega confiable y ordenada de un flujo de datos. UDP es más simple, sin conexión, a menudo utilizado para la transmisión donde la pérdida de algunos datos es tolerable.
+
 • **ICMP (Protocolo de Mensajes de Control de Internet)**: Utilizado para propósitos de diagnóstico e informes de errores en la comunicación de la red.
 • **ARP (Protocolo de Resolución de Direcciones)**: Resuelve direcciones IP en direcciones MAC, asegurando que los datos lleguen al dispositivo correcto en una red local.
+
 • **DNS (Sistema de Nombres de Dominio)**: Traduce nombres de dominio fáciles de usar (como www.example.com) en direcciones IP que las computadoras utilizan para acceder entre sí.
 
 Las consideraciones de seguridad varían para cada protocolo, como la susceptibilidad a la suplantación o la escucha, lo que resalta la necesidad de medidas de seguridad robustas, incluidos firewalls, cifrado y configuraciones seguras.
