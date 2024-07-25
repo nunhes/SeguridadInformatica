@@ -300,3 +300,5 @@ Sus tácticas y sus aventuras se describen en la exitosa novela y película *Atr
 ---
 
 Orixinal: [Abi Tyas Tunggal](https://www.upguard.com/blog/social-engineering), Apr 06, 2023
+
+Lectura adicional: [Top 10 computer security mistakes](https://www.kaspersky.com/resource-center/threats/top-10-computer-security-mistakes)
