@@ -23,3 +23,7 @@ El proceso de OSINT implica varias etapas clave:
 4. **Difusión de la inteligencia**: Comunicar los hallazgos a las partes interesadas de manera clara y efectiva.
 
 OSINT se diferencia de otros tipos de inteligencia (como HUMINT, inteligencia humana, y SIGINT, inteligencia de señales) en que no requiere técnicas encubiertas o el acceso a información clasificada.
+
+![](./assets/osint-framework.webp)
+
+https://osintframework.com/
