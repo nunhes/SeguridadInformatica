@@ -46,35 +46,31 @@
 
   - https://www.virustotal.com   &rarr; Analizar archivos, direcciones IP, URL, dominios,… para conocer si son o no de confianza.-
   - [SANS Digital Forensics and Incident Response](https://www.sans.org/dfir)
+ 
+- **Ethical Hacking Cheetseet**
+  https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet
 
 - Comprobar calidad segura de contraseñas
-
   https://password.kaspersky.com/es/
 
 - Ver destino final de URL corta
-
   https://www.expandurl.net
 
 - Comprobar la difusión y compromiso de cuentas de correo electrónico
-
   https://haveibeenpwned.com
 
 - Dirección de correo temporal
-
   https://temp-mail.org/es/
 
 
 
 - Consultas, dudas, problemas en Stackexchange
-
   https://security.stackexchange.com/
 
 - Windows Process explorer
-
   https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer
 
-- Plantillas de políticas de seguridad
-  
+- Plantillas de políticas de seguridad  
   https://www.sans.org/information-security-policy/
 
 ### Roadmap
