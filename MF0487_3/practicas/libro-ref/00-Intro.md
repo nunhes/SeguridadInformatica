@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aprender Kali Linux ~~2019~~ 2024
 
 > *El aumento actual de los ataques informáticos y las brechas de seguridad hace que sea más importante que nunca realizar pruebas de penetración de forma eficaz en su entorno, garantizando la protección de los puntos finales. Este libro te guiará a través de la versión de Kali Linux ~~2019~~ 2024 y te ayudará a utilizar diversas herramientas y técnicas para abordar de forma eficiente los aspectos cruciales de la seguridad.*
