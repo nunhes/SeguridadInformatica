@@ -274,8 +274,7 @@ Entre los ingenieros sociales más destacados se incluyen:
 [Mitnick](https://twitter.com/kevinmitnick?ref_src=twsrc^google|twcamp^serp|twgr^author) , radicado en Estados Unidos, es un consultor de seguridad informática, autor y hacker, más conocido por su arresto de alto perfil en 1995 y su condena de cinco años por varios delitos relacionados con la informática y las comunicaciones.
 
 En el vídeo a continuación, Kevin describe cómo utilizó la ingeniería social para explotar el sistema de venta de billetes de papel de una red de autobuses de Los Ángeles cuando tenía 12 años.
-
-<iframe allowfullscreen="true" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/YmGwdoS706M" title="Lo mejor de Kevin Mitnick: mi primer ataque de ingeniería social" style="box-sizing: border-box; width: 681.609px; height: 383.094px; top: 0px; left: 0px;"></iframe>
+[Lo mejor de Kevin Mitnick: mi primer ataque de ingeniería social](https://www.youtube.com/embed/YmGwdoS706M)
 
 ### Susan Headley
 
