@@ -1,6 +1,10 @@
+[TOC]
+
+# Recon-ng
+
 Recon-ng es una herramienta de reconocimiento y recolección de información automatizada utilizada principalmente en el ámbito de la seguridad informática y el hacking ético. Su objetivo principal es facilitar la fase de reconocimiento en pruebas de penetración, lo que implica recolectar información sobre un objetivo (como una organización, un dominio o una red) antes de llevar a cabo ataques más específicos.
 
-### ¿Para qué sirve Recon-ng?
+## ¿Para qué sirve Recon-ng?
 
 Recon-ng es utilizada para:
 1. **Recolección de Información:** Permite obtener información básica y avanzada sobre un objetivo, como dominios, subdominios, direcciones IP, registros DNS, correos electrónicos, usuarios, y más.
@@ -13,11 +17,12 @@ Recon-ng es utilizada para:
 Recon-ng tiene una interfaz de línea de comandos similar a Metasploit, lo que facilita su uso para quienes están familiarizados con otras herramientas de seguridad. Aquí te dejo un flujo básico de uso:
 
 1. **Instalación:**
+   
    - Recon-ng se instala fácilmente usando pip:
      ```bash
      pip install recon-ng
      ```
-
+   
 2. **Inicio:**
    - Para iniciar la herramienta, simplemente ejecuta:
      ```bash
