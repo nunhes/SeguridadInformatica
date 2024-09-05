@@ -266,9 +266,7 @@ Estas herramientas permiten realizar una auditoría exhaustiva, cubriendo difere
 
 - **Descripción**: Zenmap es la interfaz gráfica de usuario (GUI) de Nmap, que facilita el uso de Nmap para usuarios menos experimentados y proporciona una forma visual de revisar los resultados de los escaneos.
 
-- Caso de uso
-
-  :
+- Caso de uso:
 
   - **Ejemplo**: Quieres hacer un escaneo de red usando Nmap, pero prefieres una interfaz gráfica para ver los resultados. Usas `Zenmap` para configurar el escaneo y analizar visualmente los resultados, lo que facilita la identificación de posibles vulnerabilidades sin necesidad de usar la línea de comandos.
 
@@ -278,9 +276,7 @@ Estas herramientas permiten realizar una auditoría exhaustiva, cubriendo difere
 
 - **Descripción**: OpenVAS es un sistema completo de escaneo de vulnerabilidades que permite identificar problemas de seguridad en dispositivos y servicios de red.
 
-- Caso de uso
-
-  :
+- Caso de uso:
 
   - **Ejemplo**: Estás realizando una auditoría de seguridad en la red de una empresa. Ejecutas un escaneo con `OpenVAS` para detectar vulnerabilidades conocidas en servidores, routers y otros dispositivos de red. El informe te proporciona un listado detallado de problemas y recomendaciones para mitigarlos.
 
@@ -290,9 +286,7 @@ Estas herramientas permiten realizar una auditoría exhaustiva, cubriendo difere
 
 - **Descripción**: Nikto es una herramienta de escaneo que se centra en detectar vulnerabilidades en servidores web. Busca problemas como configuraciones inseguras, versiones desactualizadas de software y archivos peligrosos.
 
-- Caso de uso
-
-  :
+- Caso de uso:
 
   - **Ejemplo**: Estás evaluando la seguridad de un servidor web. Ejecutas `Nikto` contra el servidor (`nikto -h http://www.ejemplo.com`) para identificar posibles vulnerabilidades en la configuración del servidor web, como directorios expuestos o software desactualizado.
 
