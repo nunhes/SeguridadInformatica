@@ -1,3 +1,5 @@
+# Modelo OSI
+
 El modelo OSI (Open Systems Interconnection) es un marco conceptual que describe las funciones de un sistema de comunicaciones en siete capas distintas. Cada capa tiene responsabilidades específicas y se comunica con las capas adyacentes. Aquí están las siete capas del modelo OSI:
 
 1. **Capa Física (Layer 1)**:

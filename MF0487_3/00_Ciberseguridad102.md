@@ -4,7 +4,7 @@
 
 Bienvenida/o. Este artículo forma parte de la serie de textos sobre ciberseguridad y privacidad, cuyo objetivo es concienciar al público sobre la importancia de la ciberseguridad, tengan o no conocimientos técnicos, o simplemente estén interesados en conocer este extenso mundo.
 
-Si has llegado hasta aquí es que ya has leído el articulo anterior **Ciberseguridad101**, si no te recomiendo que lo hagas, ya que este es una continuación del anterior. Y precede al articulo **Ciberseguridad303**, que completa está introducción general a la Seguridad de la información, la Seguridad Informática y la Ciberseguridad, que te recomiendo que leas a continuación de este. 
+~~Si has llegado hasta aquí es que ya has leído el articulo anterior **Ciberseguridad101**, si no te recomiendo que lo hagas, ya que este es una continuación del anterior. Y precede al articulo **Ciberseguridad303**, que completa está introducción general a la Seguridad de la información, la Seguridad Informática y la Ciberseguridad, que te recomiendo que leas a continuación de este.~~ 
 
 #### Recordatorio ético
 
