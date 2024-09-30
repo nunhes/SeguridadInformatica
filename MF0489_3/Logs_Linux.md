@@ -199,4 +199,4 @@ Si se analiza un archivo tipo, como `rsyslog` se puede ver el siguiente contenid
 
 ---
 
-**_ref**: [Gestión de logs de Linux: técnicas avanzadas y buenas prácticas - NinjaOne](https://www.ninjaone.com/es/blog/gestion-de-logs-de-linux/#:~:text=La gestión de logs en Linux es fundamental)
+**_ref**: [Gestión de logs de Linux: técnicas avanzadas y buenas prácticas - NinjaOne](https://www.ninjaone.com/es/blog/gestion-de-logs-de-linux/)
