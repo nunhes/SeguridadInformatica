@@ -2,7 +2,44 @@
 
 # OwaspZap
 
-OwaspZap es una herramienta que permite escanear servidores web y comprobar si existe algún tipo de fallo de seguridad conocido.
+OWASP ZAP es una herramienta esencial en el arsenal de cualquier especialista en seguridad de aplicaciones web. Su facilidad de uso, junto con su poder y capacidad de personalización, lo convierten en una excelente opción para identificar y mitigar vulnerabilidades en aplicaciones web, sin importar el nivel de experiencia del usuario.
+
+### OWASP ZAP: Un Proxy para la seguridad de aplicaciones web
+
+- **ZAP actúa como un proxy entre el navegador y la red**, interceptando y analizando el tráfico HTTP(S) para identificar vulnerabilidades de seguridad en aplicaciones web. A medida que un usuario interactúa con una página web, **ZAP detecta posibles problemas de seguridad y genera informes detallados para el usuario final**.
+  
+- **ZAP es de código abierto y completamente gratuito**, lo que lo convierte en una herramienta accesible tanto para profesionales de la ciberseguridad como para aficionados. Es mantenido por la comunidad de OWASP (Open Web Application Security Project), lo que asegura que esté en constante evolución y actualización para enfrentar nuevas amenazas.
+
+- **Multiplataforma**: ZAP está disponible para **Windows, Linux y Mac**, permitiendo a los usuarios de diferentes entornos operar sin limitaciones.
+
+- **Fácil de usar para principiantes**: A pesar de su robustez y capacidad avanzada, ZAP es intuitivo y ofrece una interfaz amigable para usuarios que están comenzando en el campo del pentesting o pruebas de seguridad en aplicaciones web. Además, tiene guías y tutoriales disponibles, lo que facilita su adopción.
+
+---
+
+### Documentación y recursos de Interés
+
+Para aprovechar al máximo OWASP ZAP, aquí tienes algunos recursos útiles:
+
+1. **[OWASP ZAP Sitio Oficial](https://www.zaproxy.org/)**
+   - Página oficial de OWASP ZAP con descargas, guías de usuario y enlaces a la comunidad.
+   
+2. **[Guía Rápida de OWASP ZAP](https://www.zaproxy.org/getting-started/)**
+   - Instrucciones detalladas para la instalación y uso de OWASP ZAP para principiantes.
+
+3. **[ZAP Marketplace](https://www.zaproxy.org/addons/)**
+   - Extensiones adicionales que pueden mejorar la funcionalidad de ZAP, disponibles en el marketplace de ZAP.
+
+4. **[Documentación de OWASP ZAP en GitHub](https://github.com/zaproxy/zaproxy/wiki)**
+   - Wiki oficial donde se encuentra información técnica y guías de configuración para usuarios más avanzados.
+
+5. **[OWASP Top 10 Vulnerabilidades](https://owasp.org/www-project-top-ten/)**
+   - Lista de las principales vulnerabilidades en aplicaciones web, que ZAP está diseñado para detectar y reportar.
+
+---
+
+### ZAP Proxy
+
+OwaspZap (o Zap Proxy) es una herramienta que permite escanear servidores web y comprobar si existe algún tipo de fallo de seguridad conocido.
 
 Cuando inicie ZAP por primera vez, la herramienta preguntará si deseas mantener la sesión de ZAP. De forma predeterminada, las sesiones ZAP siempre se graban en el disco en una base de datos HSQLDB con un nombre y una ubicación predeterminados. Si la sesión no persiste, esos archivos se eliminarán al cerrar la sesión.
 
@@ -75,6 +112,11 @@ Una vez que se realiza el escaneo activo, podemos generar informes. Para eso sim
 
 Y esto sería todo por el momento. Próximamente haremos un nuevo artículo en el cual explicaremos como explorar una aplicación manualmente, además de explicar algunas de las funciones avanzadas de esta herramienta.
 
-**Escrito por Mikel Hernández Alonso**
 
-https://www.linkedin.com/in/mikel-hernandez-alonso-a3975b205/
+
+
+
+---
+
+**[Mikel Hernández Alonso](https://www.linkedin.com/in/mikel-hernandez-alonso-a3975b205/)**
+

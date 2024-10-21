@@ -33,4 +33,10 @@ ref:
 - [Software de gestión de vulnerabilidades](https://geekflare.com/es/best-vulnerability-management-software/)
 - [Administración de vulnerabilidades](https://www.microsoft.com/es-es/security/business/security-101/what-is-vulnerability-management) &rarr; [Microsoft - Security 101](https://www.microsoft.com/es-es/security/business/security-101)
 
-- Original: https://github.com/OWASP/ASVS/tree/v4.0.3/4.0 &rarr; [OWASP Application Security Verification Standard 4.0.3-es](https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-es.pdf)
+- ](https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-es.pdf)
+
+- [Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
+
+- [Awesome web security](https://github.com/qazbnm456/awesome-web-security)
+
+- Original: https://github.com/OWASP/ASVS/tree/v4.0.3/4.0 &rarr; [OWASP Application Security Verification Standard 4.0.3-es

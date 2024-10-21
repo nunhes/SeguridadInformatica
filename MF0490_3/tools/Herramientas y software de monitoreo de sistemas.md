@@ -1,0 +1,9 @@
+## Herramientas y software de monitoreo de sistemas
+
+| Nombre                                                       | Prueba gratis              | Despliegue                           | Precios                           | Enlaces                                                      |
+| ------------------------------------------------------------ | -------------------------- | ------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| [👍 ManageEngine OpManager](https://guru99.link/recommends-system-monitoring-software) | Prueba gratuita de 30 días | Basado en la web y basado en la nube | $39 al mes. 10% de descuento      | [MÁS INFORMACIÓN](https://guru99.link/recommends-system-monitoring-software) |
+| [👍 Site24x7](https://guru99.link/recommends-site24x7-sysmon-software) | Prueba gratuita de 30 días | Basado en la web y basado en la nube | $ 9 al mes.                       | [MÁS INFORMACIÓN](https://guru99.link/recommends-site24x7-sysmon-software) |
+| [Monitor de red de PRTG](https://guru99.click/6bdf95)        | Prueba gratuita de 30 días | Basado en web y basado en la nube.   | $ 1799 al mes.                    | [MÁS INFORMACIÓN](https://guru99.click/6bdf95)               |
+| [Better Stack](https://guru99.link/b4pa32)                   | Prueba gratuita de 60 días | Basado en la web y basado en la nube | Plan gratuito disponible          | [MÁS INFORMACIÓN](https://guru99.link/b4pa32)                |
+| [Monitor de servidor y aplicación](https://www.solarwinds.com/server-application-monitor/) | Prueba gratuita de 30 días | Basado en la web y basado en la nube | Solicite una cotización de ventas | [MÁS INFORMACIÓN](https://www.solarwinds.com/server-application-monitor/) |

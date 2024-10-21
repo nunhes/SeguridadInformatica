@@ -116,3 +116,11 @@ Una respuesta a incidentes bien planificada, un buen equipo y las herramientas y
 ---
 
 https://geekflare.com/es/cyber-security-incident-response-management/
+
+[Resultados de la Búsqueda |  INCIBE](https://www.incibe.es/incibe/solr-search/content?resultado=respuesta+incidentes)
+
+[Respuesta a incidentes | INCIBE-CERT | INCIBE](https://www.incibe.es/incibe-cert/incidentes/respuesta-incidentes)
+
+[Guías empresas | Empresas | INCIBE](https://www.incibe.es/empresas/guias/)
+
+[Guía nacional de notificación y gestión de ciberincidentes (incibe.es)](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf)
