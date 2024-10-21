@@ -1,4 +1,4 @@
-# Entendiendo los logs del sistema
+# Entendiendo los logs del sistema en Linux
 
 La importancia de conocer que ocurre o ha ocurrido en nuestro sistema Linux radica en entender los **logs del sistema**.
 Los archivos **logs en Linux** son los encargados de registrar y recoger en el sistema todos los eventos que se van produciendo en la ejecución de los diferentes procesos, llegando a ser vitales para monitorear y solucionar cualquier problema que nos podamos encontrar o para entender cual ha sido el motivo del o de los mismos.
